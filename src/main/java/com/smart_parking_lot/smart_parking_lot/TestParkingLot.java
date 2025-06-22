@@ -1,6 +1,6 @@
 package com.smart_parking_lot.smart_parking_lot;
 
-public class Main {
+public class TestParkingLot {
 
     public static void main(String[] args) {
         // This is the entry point of the application.
